@@ -20,6 +20,8 @@
 A 3×5 corridor. One pushable block sits directly between the player (south) and the
 exit (north). No branches, no hazards, no other objects.
 
+![Reference art placeholder](../../Images/chanchan.jpg)
+
 ## Intended solution
 1. Walk up to the block.
 2. Push it one tile north.
